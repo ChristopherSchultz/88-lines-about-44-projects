@@ -31,4 +31,6 @@ a hint of each project and apply some intentionally tortured rhyming.
 
 I hope you enjoy it.
 
+[88 Lines about 44 Projects](88_lines.md)
+
 -chris
