@@ -4,10 +4,10 @@ by Christopher Schultz (schultz@apache.org)
 
 (With apologies to The Nails)
 
-[Tomcat](https://tomcat.apache.org/] serves up Jva applications\
+[Tomcat](https://tomcat.apache.org/) serves up Java applications\
 like a loving pet
 
-[TomEE](https://tomee.apache.org/] is like Tomcat\
+[TomEE](https://tomee.apache.org/) is like Tomcat\
 with more Es and a big featureset
 
 [Jack Rabbit](https://jackrabbit.apache.org/jcr/index.html) manages the content\
@@ -116,16 +116,16 @@ Might benefit from [Johnzon](https://johnzon.apache.org/)
 
 ---
 
-Web devs use Cordova to short-circuit
+Web devs use [Cordova](https://cordova.apache.org/) to short-circuit
 writing native apps
 
-Celeborn moves huge amounts of data
+[Celeborn](https://celeborn.apache.org/) moves huge amounts of data
 to and fro quite fast
 
 If you aren't a Spark-head
-then you might be thinking Uniffle
+then you might be thinking [Uniffle](https://uniffle.apache.org/)
 
-System D S manages
+[System D S](https://systemds.apache.org/) manages
 your data science lifecycle
 
 ---
