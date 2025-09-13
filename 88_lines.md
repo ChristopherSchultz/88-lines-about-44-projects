@@ -4,17 +4,17 @@ by Christopher Schultz (schultz@apache.org)
 
 (With apologies to The Nails)
 
-[h t t p d](https://httpd.apache.org/) is where\
-it all began those years ago
+[Tomcat](https://tomcat.apache.org/] serves up Jva applications\
+like a loving pet
 
-Log events with [log4j](https://logging.apache.org/log4j/2.x/index.html) to\
-get them where they need to flow
+[TomEE](https://tomee.apache.org/] is like Tomcat\
+with more Es and a big featureset
 
-[Commons](https://commons.apache.org/) is a pile of stuff\
-That nobody can live without
+[Jack Rabbit](https://jackrabbit.apache.org/jcr/index.html) manages the content\
+that you have to fight
 
-For solving algebraic woes\
-You may be looking for [Mahout](https://mahout.apache.org/)
+If your work's distributed\
+and memory-hard you'll want [Ignite](https://ignite.apache.org/)
 
 ---
 
@@ -116,17 +116,17 @@ Might benefit from [Johnzon](https://johnzon.apache.org/)
 
 ---
 
-[Pulsar](https://pulsar.apache.org/) pushes messages\
-Super duper duper fast
+Web devs use Cordova to short-circuit
+writing native apps
 
-[Hadoop](https://hadoop.apache.org/) will chew directly through\
-All the data you’ve amassed
+Celeborn moves huge amounts of data
+to and fro quite fast
 
-[Jena](https://jena.apache.org/)’s making easier\
-Documents for web semantics
+If you aren't a Spark-head
+then you might be thinking Uniffle
 
-Var’ious kinds of logic boards\
-Could use some [PLC4X](https://plc4x.apache.org/)
+System D S manages
+your data science lifecycle
 
 ---
 
