@@ -116,16 +116,16 @@ Might benefit from [Johnzon](https://johnzon.apache.org/)
 
 ---
 
-Web devs use [Cordova](https://cordova.apache.org/) to short-circuit
-writing native apps
+Web devs use [Cordova](https://cordova.apache.org/)\
+to short-circuit writing native apps
 
-[Celeborn](https://celeborn.apache.org/) moves huge amounts of data
-to and fro quite fast
+[Celeborn](https://celeborn.apache.org/) moves huge amounts\
+of data to and fro quite fast
 
-If you aren't a Spark-head
+If you aren't a Spark-head\
 then you might be thinking [Uniffle](https://uniffle.apache.org/)
 
-[System D S](https://systemds.apache.org/) manages
+[System D S](https://systemds.apache.org/) manages\
 your data science lifecycle
 
 ---
