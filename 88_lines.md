@@ -103,7 +103,7 @@ Without the use of ole’ [Lucene](https://lucene.apache.org)
 ---
 
 [Curator](https://curator.apache.org/) keeps animals\
-In Zoos kept safe by ZooKeepers
+In Zoos kept safe by [ZooKeepers](https://zookeeper.apache.org/)
 
 [Kafka](https://kafka.apache.org/) streams events and queues\
 And glues-up all the universe
