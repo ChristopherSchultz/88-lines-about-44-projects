@@ -46,31 +46,31 @@ Flash based apps are dead and gone\
 
 ---
 
-[Daffodil](https://daffodil.apache.org/) can grok your files\
-And ungrok if you want it to
+[TVM](https://tvm.apache.org/) compiles your ML code\
+to custom hardware chips
 
-[Airavata](https://airavata.apache.org/) orchestrates\
-Your scientific magic glue
+[Brooklyn](https://brooklyn.apache.org/) monitors your apps\
+to catch random banana slips
 
-[Beam](https://beam.apache.org/) will stream your records fast\
-And send them where they need to go
+[Drill](https://drill.apache.org/) will query\
+many types of backend data storage sets
 
-If Python is your drug of choice\
-You can swap Beam for some [Airflow](https://airflow.apache.org/)
+[Maven](https://maven.apache.org/) builds your project\
+once it downloads all the internets
 
 ---
 
-Web frameworks coming out our ears\
-[Struts](https://struts.apache.org/), [Turbine](https://turbine.apache.org/), [Click](https://click.apache.org/), and [Wicket](https://wicket.apache.org/), too
+[Nutch](https://nutch.apache.org/) will crawl your files and\
+follow references to stream your stuff
 
-[Flume](https://flume.apache.org/) will collect and move your logs\
-passing reliably right through
+[Synapse](https://synapse.apache.org/) routes your services\
+for XML - a service bus
 
-[Shiro](https://shiro.apache.org/) makes securing applications\
-just a simple task
+[Gobblin](https://gobblin.apache.org/) streams or batches data\
+replicates to other places
 
-While [Helix](https://helix.apache.org/) wrangles clusters of\
-the servers that you have amassed
+Model view controller fans\
+in Java might use [MyFaces](https://myfaces.apache.org/)
 
 ---
 
@@ -144,20 +144,17 @@ where NoSQL's what they adore
 
 ---
 
-[POI](https://poi.apache.org/) gives access to stuff in\
-proprietary documents
+[Geode](https://geode.apache.org/) unifies and scales\
+all of your resource management
 
-[Kibble](http://kibble.apache.org/) maps-out progress by\
-an effort's worker occupants
+[Santuario](https://santuario.apache.org/) will sign\
+and verify markup you sent
 
-[Druid](https://druid.apache.org/) queries myriad\
-dimensions with alacrity
+[Syncope](https://syncope.apache.org/) won't pass out when\
+authentications are your goals
 
-If templating has got you down\
-you could turn to [Velocity](https://velocity.apache.org/)
-
-
-
+You'll never guess how\
+the Apache [MINA SSHD](https://mina.apache.org/sshd-project/) rolls
 
 
 *88 Lines about 44 Projects*
