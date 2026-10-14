@@ -159,4 +159,4 @@ the Apache [MINA SSHD](https://mina.apache.org/sshd-project/) rolls
 
 *88 Lines about 44 Projects*
 
-_* now with 4 bonus projects!_
+_* now with a bonus project!_
